@@ -1,0 +1,50 @@
+.top-menu {
+	height: 50px;
+	background: white;
+	border-bottom: #eee solid 10px;
+	display: flex;
+	padding: 10px 10px 10px 10px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.MuiTableCell-root{
+  padding: 6px !important;
+}
+
+.MuiOutlinedInput-input{
+  padding: 7px 14px !important;
+}
+
+.top-right-menu {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.searchbar {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	margin: 5px;
+}
+
+.table-container {
+	width: 100%;
+	background-color: #eee;
+}
+
+.table-users {
+	background: white;
+	display: flex;
+	flex-direction: column;
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
+	border: rgba(0, 0, 0, 0.349) 1px solid;
+}
+.table-wrapper {
+	width: 100%;
+	border-radius: 10px;
+}

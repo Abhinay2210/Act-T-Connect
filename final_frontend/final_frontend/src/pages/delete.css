@@ -1,0 +1,21 @@
+.text{
+    margin: 5px 0px;
+    font-weight: 200;
+    font-weight: bold;
+    font-size: medium;
+}
+
+
+.btn{
+    background-color:hsl(348, 72%, 52%);
+    padding: 8px 10px;
+    margin: 5px 0px;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(236, 161, 176);
+}

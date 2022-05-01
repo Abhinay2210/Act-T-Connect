@@ -1,0 +1,51 @@
+.topnav{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 4;
+    top:0;
+    left: 0;
+    right:0;
+    /* margin-top: 0; */
+    align-items: center;
+    background: white;
+    border-bottom: whitesmoke solid 2px;
+	box-sizing: border-box;
+    height: 50px;
+}
+
+.navb{
+    width: 100vh;
+    height: 50px
+}
+
+.menu-btn{
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.right-nav{
+    background: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 50px;
+    /* border-bottom: whitesmoke solid 2px; */
+	box-sizing: border-box;
+}
+
+.right-nav .userprofile{
+    padding: 8px 5px 8px 16px;
+    font-size: 30px;
+}
+.right-nav .username{
+    padding: 8px 16px 8px 5px;
+}
+.right-nav .notification{
+    padding: 8px 16px;
+    margin-right: 5px;
+}
+.right-nav .logout{
+    padding: 8px 16px;
+    margin-right: 5px;
+}

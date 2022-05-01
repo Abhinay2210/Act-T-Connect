@@ -1,0 +1,10 @@
+{
+    "job-categories":[
+        {
+            "id":"1",
+            "job-name":"Engineer",
+            "skill":"software",
+            "location":"pune"
+        }
+    ]
+}
